@@ -1,8 +1,0 @@
-HTTP methods 
-
-Get - retrieve data
-Post - insert/ to post data up to the server
-put - ask the server to store the data
-delete - ask the server to delete the data
-
-The quick brown fox jumps over a lazy dog.
