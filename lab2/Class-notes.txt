@@ -1,0 +1,10 @@
+for the image and icons in the android,
+you should use the svg (50*5000) instead of the jpg, jpeg, png. 
+
+flaticons
+|
+>>svg 
+
+to import the graphics in the activity
+you can copy the jpg, jpeg 
+to res>> lyout >> drawables
